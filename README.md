@@ -8,5 +8,8 @@ Concrete is generally made of three ingredients: cement, water and aggregate. In
 	When creating concrete, it is important to know what materials have the most impact on a certain characteristic of the concrete. Figure 3 shows the coefficient weights for each of the features used in the logistic regression. It is seen the most important factor for compressive strength is age. The more days after the concrete has been mixed, the stronger it gets. The most important material is cement, which is a critical component in the chemical reaction that makes concrete harden.
 	Overall, this analysis shows that 93% of concrete mixes will meet the standard set by the ACI for compressive strength at some point after 30 days. However, the age of the concrete alone will not guarantee an ACI approval as materials such as cement are a crucial component to creating concrete with a high compressive strength.
 
+![fig1](https://user-images.githubusercontent.com/55674235/104646132-a8516100-5675-11eb-8a30-b9522220095b.png)
+![fig2](https://user-images.githubusercontent.com/55674235/104646196-be5f2180-5675-11eb-9215-a394230a889e.png)
+![fig3](https://user-images.githubusercontent.com/55674235/104646195-bdc68b00-5675-11eb-8a68-65d3380acf7f.png)
 
 
